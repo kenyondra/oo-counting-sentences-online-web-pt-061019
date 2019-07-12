@@ -13,6 +13,7 @@ class String
   end
 
   def exclamation?
+    "WAIT!".end_with?("!")
 
   end
 
